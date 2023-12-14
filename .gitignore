@@ -5,3 +5,7 @@
 /.vs/CQRS-Example
 /CQRS-Example/obj/Debug/net8.0
 /CQRS-Example/obj
+/CQRS-Emaple.Domain/obj/Debug/net8.0
+/CQRS-Emaple.Domain/obj
+/CQRS-Example.Infrastructure/obj/Debug/net8.0
+/CQRS-Example.Infrastructure/obj
