@@ -1,0 +1,7 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CQRS-Example
+/CQRS-Example/obj/Debug/net8.0
+/CQRS-Example/obj
