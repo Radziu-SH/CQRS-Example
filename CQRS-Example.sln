@@ -5,6 +5,10 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS-Example", "CQRS-Example\CQRS-Example.csproj", "{2D208B33-3588-430C-8319-180263CAA997}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS-Example.Domain", "CQRS-Emaple.Domain\CQRS-Example.Domain.csproj", "{0B34DB63-691B-45A3-B4EE-ECEBFF49A621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS-Example.Infrastructure", "CQRS-Example.Infrastructure\CQRS-Example.Infrastructure.csproj", "{50E4097A-3FE2-4073-9ECF-50B1879B98CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2D208B33-3588-430C-8319-180263CAA997}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D208B33-3588-430C-8319-180263CAA997}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D208B33-3588-430C-8319-180263CAA997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B34DB63-691B-45A3-B4EE-ECEBFF49A621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B34DB63-691B-45A3-B4EE-ECEBFF49A621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B34DB63-691B-45A3-B4EE-ECEBFF49A621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B34DB63-691B-45A3-B4EE-ECEBFF49A621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50E4097A-3FE2-4073-9ECF-50B1879B98CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E4097A-3FE2-4073-9ECF-50B1879B98CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E4097A-3FE2-4073-9ECF-50B1879B98CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E4097A-3FE2-4073-9ECF-50B1879B98CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
